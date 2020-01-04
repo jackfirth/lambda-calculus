@@ -9,7 +9,8 @@
               "lambda-calculus")))
 
 (define deps
-  (list "base"))
+  (list "base"
+        "brag-lib"))
 
 (define build-deps
   (list "racket-doc"
