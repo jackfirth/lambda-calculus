@@ -1,4 +1,4 @@
-# lambda-calculus [![CI Status][ci-status-badge]][ci-status] [![Documentation][docs-badge]][docs]
+# lambda-calculus [![CI Status][ci-status-badge]][ci-status]
 
 A racket `#lang` for lambda calculus.
 
